@@ -4,7 +4,7 @@
 
 1. [Number of words in string](task1/task1.py)
 
-    Enter a string consisting of words separated by spaces. The task is to count the number of words in the word.
+    Enter a string consisting of words separated by spaces. The task is to count the number of words.
     
 2. [The longest string in the array](task2/task2.py)
 
@@ -24,3 +24,15 @@
 5. [Remove spaces from the string and determine if it is a palindrome](task5/task5.py)
 
     A string is entered. Remove all spaces from it. After that, determine if it is a palindrome.
+    
+6. [Is the string an identifier](task6/task6.py)
+
+    Determine if the entered word is an identifier, i.e. whether it starts with an English letter in any case or 
+    underscore and does not contain other characters except the letters of the English alphabet (in any case), 
+    numbers and underscore.
+    
+7. [Remove extra spaces](task7/task7.py)
+
+    A line is entered that can have spaces at the beginning, at the end and between words of more 
+    than one space. Bring it to a normalized form, i.e. remove all spaces at the beginning and end, and leave only
+    one space between words.
