@@ -6,7 +6,12 @@
     In other words, if there are more than 1 duplicated numbers, return the number for which the second occurrence has a smaller index than the second occurrence of the other number does. 
     If there are no such elements, return -1.
 
-2. First not repeating character: [solution 1](first-non-repeating-character.py)
+2. First not repeating character: [solution 1](first-not-repeating-character.py)
 
     Given a string s consisting of small English letters, find and return the first instance of a non-repeating character in it. 
     If there is no such character, return '_'.
+
+3. Rotate image: [solution 1](rotate-image-1.py)
+
+    You are given an n x n 2D matrix that represents an image. Rotate the image by 90 degrees (clockwise).
+    _Note: Try to solve this task in-place (with O(1) additional memory), since this is what you'll be asked to do during an interview._
