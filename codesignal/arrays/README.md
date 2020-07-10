@@ -11,7 +11,7 @@
     Given a string s consisting of small English letters, find and return the first instance of a non-repeating character in it. 
     If there is no such character, return '_'.
 
-3. Rotate image: [solution 1](rotate-image-1.py)
+3. Rotate image: [solution 1](rotate-image-1.py) [solution 2](rotate-image-2.py)
 
     You are given an n x n 2D matrix that represents an image. Rotate the image by 90 degrees (clockwise).
     _Note: Try to solve this task in-place (with O(1) additional memory)._
