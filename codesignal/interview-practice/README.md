@@ -1,4 +1,4 @@
-# Codesignal tasks: 'Interview practice'
+# Codesignal tasks: Interview practice
 
 Task sections:
 
