@@ -1,5 +1,5 @@
 # Codesignal tasks
 
-Tasks from [codesignal.com](codesignal.com):
+Tasks from [codesignal.com](codesignal.com). Sections:
 
-1. [Arrays](arrays/README.md)
+1. [Interview practive](interview-practice/README.md)
