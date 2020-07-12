@@ -57,3 +57,32 @@
     - Output: string
     
         String `s` with pairs of adjacent words swapped.
+        
+3. [N-th number](n-th-number.py)
+
+    **Task**
+    
+    You are given a string `s` of characters that contains at least `n` numbers (here, a number is defined as a consecutive series of digits, where any character immediately to the left and right of the series are not digits). 
+    The numbers may contain leading zeros, but it is guaranteed that each number has at least one non-zero digit in it.
+    
+    Your task is to find the `n` th number and return it as a string without leading zeros.
+    
+    **Example**
+    
+    For `s = "8one 003number 201numbers li-000233le number444"` and `n = 4`,
+    the output should be
+    `nth_number(s, n) = "233"`.
+    
+    **Input/Output**
+    
+    - Input: string `s`
+    
+    A string containing at least `n` numbers.
+    
+    - Input: integer `n`
+    
+    1-based index of the number to find.
+    
+    - Output: string
+    
+    The `n` th number without leading zeros.
